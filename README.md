@@ -11,7 +11,7 @@ nSynch is a CiviCRM API extension which let you Synchronize Users to Contacts.
 ```$ git clone https://github.com/kewljuice/be.ctrl.nsynch.git```
 
 - You can also download a zip file, and extract in your extension directory<br>
-```$ git clone https://github.com/kewljuice/zip/master```
+```$ git clone https://github.com/kewljuice/be.ctrl.nsynch/archive/master.zip```
 
 - Configure CiviCRM Extensions Directory which can be done from<br>
 ```"Administer -> System Settings -> Directories".```

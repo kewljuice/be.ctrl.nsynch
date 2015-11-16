@@ -10,10 +10,8 @@
  * http://booki.flossmanuals.net/civicrm-developer-guide/api/
  */
 function civicrm_api3_nsynch_execute($params) {
-	
 	// log
-	watchdog('be.ctrl.nsynch','nsynch execute');
-
+	// watchdog('be.ctrl.nsynch','nsynch execute');
 }
 
 
